@@ -1,4 +1,4 @@
-# drugReview_DM
+# Drug Review - Data Mining
 It has been used for final project of Data Mining course in UNIGE.
 
 AdaBoost, LightGBM, XGBoost, Naive Bayes and Logistic Regression machine learning models have been applied.
